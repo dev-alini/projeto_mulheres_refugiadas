@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
     background-color: antiquewhite;
@@ -17,3 +18,24 @@ h1, h2 {
 #cursos .card {
     margin-bottom: 20px;
 }
+=======
+
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('assets/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+#cursos .card {
+    margin-bottom: 20px;
+}
+>>>>>>> 53accad38b6d4f41f3ccd61f10c40da2eb0b8452
