@@ -1,0 +1,19 @@
+
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('assets/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+#cursos .card {
+    margin-bottom: 20px;
+}
