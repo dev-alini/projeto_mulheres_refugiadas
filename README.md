@@ -4,10 +4,10 @@
 ![Static Badge](https://img.shields.io/badge/mulheres_refugiadas-green)
 
 ### squad 065 - integrantes:
+- Adenice Lima de Brito Leitao
 - Ailton Lucas de Oliveira Silva
-- Ailton Lucas de Oliveira Silva
-- Ailton Lucas de Oliveira Silva
-- Ailton Lucas de Oliveira Silva 
+- Aline de Jesus Santos
+- Ellen Cristine Maciel da Silva
 
 ## Questionário do Projeto Social:
 1. **Considerando o desafio escolhido, qual é o problema a ser resolvido e que será
