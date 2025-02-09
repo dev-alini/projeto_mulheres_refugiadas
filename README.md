@@ -6,8 +6,32 @@
 ### squad 065 - integrantes:
 - Adenice Lima de Brito Leitao
 - Ailton Lucas de Oliveira Silva
-- Aline de Jesus Santos
-- Ellen Cristine Maciel da Silva
+- Aline de Jesus Santos(líder)
+- Ellen Cristine Maciel da Silva(vice-líder)
+
+### Desafio Escolhido
+O desafio escolhido foi criar uma plataforma digital acessível e inclusiva para oferecer qualificação
+profissional a mulheres refugiadas venezuelanas no Brasil. A ideia é fornecer cursos gratuitos em
+diversas áreas para facilitar a entrada dessas mulheres no mercado de trabalho.
+
+### Problema Identificado
+O problema identificado foi a falta de oportunidades e barreiras de acesso ao emprego para mulheres refugiadas, que enfrentam dificuldades como:
+
+* Barreira do idioma (muitas não dominam o português);
+* Falta de qualificação profissional (não conseguem validar diplomas ou não possuem experiência formal);
+* Desafios econômicos e sociais (dificuldade em acessar cursos pagos ou obter suporte para se reinserir no mercado de trabalho);
+* Discriminação no mercado de trabalho (pelo fato de serem refugiadas e mulheres).
+
+A plataforma busca resolver esse problema através de cursos profissionalizantes acessíveis, facilitando o desenvolvimento de
+novas habilidades para que essas mulheres possam conquistar independência financeira.
+
+### Público-Alvo
+O público-alvo principal são mulheres refugiadas venezuelanas no Brasil, que buscam capacitação para se inserir no mercado de trabalho.
+O projeto também pode beneficiar:
+
+Mulheres imigrantes de outros países que enfrentam desafios semelhantes;
+Organizações sociais e ONGs que atuam na integração de refugiados;
+Empresas interessadas em contratar mão de obra qualificada e apoiar a inclusão social.
 
 ## Questionário do Projeto Social:
 1. **Considerando o desafio escolhido, qual é o problema a ser resolvido e que será
@@ -35,8 +59,14 @@ financeira, aumentar sua exposição à exploração e dificultar sua adaptaçã
 
 5. **Qual o cronograma das atividades?**
    
+   ![image](https://github.com/user-attachments/assets/a164cc82-9bb5-4289-82f0-0e4b22f69c67)
+
+   
 6. **Como será feita a distribuição das atividades entre os integrantes do squad para essa
 primeira entrega?**
+
+![image](https://github.com/user-attachments/assets/64181473-884f-4f4a-9eec-aad220247204)
+
 
 7. **Qual a ferramenta de gerenciamento de projeto será usada para o monitoramento
 das atividades? Ex: Trello, Asana, Jira, Monday.**
