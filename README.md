@@ -72,3 +72,71 @@ primeira entrega?**
 das atividades? Ex: Trello, Asana, Jira, Monday.**
 <br>R: Jira
 
+### Modelagem de dados
+* Conceitual:
+
+  ![image](https://github.com/user-attachments/assets/7a4de673-9c2a-418c-b811-e64aea682baa)
+
+* Lógico:
+
+    ![image](https://github.com/user-attachments/assets/57fca771-4027-4e4d-a396-69c12fb40a0f)
+
+  *  Script SQL:
+ 
+    CREATE TABLE Usuária 
+( 
+ Usuaria_ID INT PRIMARY KEY AUTO_INCREMENT,  
+ Nome VARCHAR(n) NOT NULL,  
+ Email VARCHAR(n) NOT NULL,  
+ Senha VARCHAR(n) NOT NULL,  
+ Pais_Origem VARCHAR(n) NOT NULL,  
+ Data_Nascimento DATE NOT NULL,  
+ UNIQUE (Email)
+); 
+
+CREATE TABLE Categoria 
+( 
+ Categoria_ID INT PRIMARY KEY,  
+ Nome VARCHAR(n) NOT NULL,  
+); 
+
+CREATE TABLE Instrutor 
+( 
+ Instrutor_ID INT PRIMARY KEY AUTO_INCREMENT,  
+ Nome VARCHAR(n) NOT NULL,  
+ Especializacao VARCHAR(n),  
+); 
+
+CREATE TABLE Curso 
+( 
+ Curso_ID INT PRIMARY KEY,  
+ Nome VARCHAR(n) NOT NULL,  
+ Descricao VARCHAR(n),  
+ Duracao INT NOT NULL,  
+ Categoria_ID INT,  
+ Instrutor_ID INT,  
+); 
+
+CREATE TABLE Inscricao 
+( 
+ Inscricao_ID INT PRIMARY KEY AUTO_INCREMENT,  
+ Usuaria_ID INT,  
+ Curso_ID INT,  
+ Data_Inscricao DATE NOT NULL,  
+ Status CHAR(n) NOT NULL,  
+); 
+
+CREATE TABLE Certificado 
+( 
+ Certificado_ID INT PRIMARY KEY AUTO_INCREMENT,  
+ Inscricao_ID INT,  
+ Data_Conclusao DATE NOT NULL,  
+ Codigo_Verificacao VARCHAR(n) NOT NULL,  
+ UNIQUE (Codigo_Verificacao)
+); 
+
+### Link funcional para acessar o site:
+
+
+
+
